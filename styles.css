@@ -103,3 +103,8 @@ header ul li:hover, header ul li#current:hover{
 a:visited {
   color: #000000;
 }
+
+.block {
+	display: inline-block;
+	margin: 10px;
+}
