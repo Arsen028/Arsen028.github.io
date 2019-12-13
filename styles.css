@@ -104,7 +104,7 @@ a:visited {
   color: #000000;
 }
 
-.block {
+div.blocks {
 	display: inline-block;
 	margin: 10px;
 }
